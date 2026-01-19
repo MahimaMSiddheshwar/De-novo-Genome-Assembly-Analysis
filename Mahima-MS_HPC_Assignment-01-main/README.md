@@ -1,4 +1,4 @@
-# Mahima-MS_Precision Medicine_Assignment-01
+# De Novo E. coli Genome Assembly Optimization Study
 
 Scope: E. coli Genome Assembly Using Velvet & Oases
 "Velvet is a de novo genomic assembler specially designed for short read sequencing technologies. Oases is a de novo transcriptome assembler designed to work on top of Velvet's output, primarily for RNA-Seq data."
