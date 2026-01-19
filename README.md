@@ -3,7 +3,16 @@
 Scope: E. coli Genome Assembly Using Velvet & Oases
 "Velvet is a de novo genomic assembler specially designed for short read sequencing technologies. Oases is a de novo transcriptome assembler designed to work on top of Velvet's output, primarily for RNA-Seq data."
 
-Assignment Description: This assignment aims to assemble the Escherichia coli genome using short-read Illumina DNA sequencing data (SRA identifier: SRR21904868). Two de-novo genome assembly tools, Velvet and Oases, were used to perform the assembly with varying k-mer sizes. The different k-mers  were taken, and a comparison of the results between Velvet and Oases was conducted, highlighting key differences and performance insights.
+## 🧰 Tech Stack & Tools
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Velvet](https://img.shields.io/badge/Velvet-Genome%20Assembler-blue)
+![Oases](https://img.shields.io/badge/Oases-Transcriptome%20Assembler-green)
+![QUAST](https://img.shields.io/badge/QUAST-Assembly%20QC-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-Cluster-red)
+
+Description: This assignment aims to assemble the Escherichia coli genome using short-read Illumina DNA sequencing data (SRA identifier: SRR21904868). Two de-novo genome assembly tools, Velvet and Oases, were used to perform the assembly with varying k-mer sizes. The different k-mers  were taken, and a comparison of the results between Velvet and Oases was conducted, highlighting key differences and performance insights.
 
 Objective:
 -> Assemble the E. coli genome using Velvet and Oases.
@@ -11,9 +20,6 @@ Objective:
 -> Comparing the results and performance of Velvet and Oases.
 -> Providing a detailed step-by-step analysis.
 
-Programming Language:
-Bash
-Python (for running QUAST) ---> Miniconda
 
 Input Files: 
 SRR21904868_1.fastq
