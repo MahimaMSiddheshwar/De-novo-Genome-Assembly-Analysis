@@ -3,16 +3,6 @@
 **Scope:** *E. coli* Genome Assembly Using Velvet & Oases
 "Velvet is a de novo genomic assembler specially designed for short-read sequencing technologies. Oases is a de novo transcriptome assembler designed to work on top of Velvet's output, primarily for RNA-Seq data."
 
-## 🧰 Tech Stack & Tools
-
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash\&logoColor=white)
-![Velvet](https://img.shields.io/badge/Velvet-Genome%20Assembler-blue)
-![Oases](https://img.shields.io/badge/Oases-Transcriptome%20Assembler-green)
-![QUAST](https://img.shields.io/badge/QUAST-Assembly%20QC-orange)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-Cluster-red)
-
 ---
 
 ## 2. Objectives
